@@ -1,6 +1,11 @@
 # Get Coding with CERN@school!
 
-Welcome to the CERN@school "Get Coding!" course.
+Welcome to the CERN@school "Get Coding!" course. Click on one of
+lesson links below to open up the corresponding
+Jupyter Notebook in your browser.
+Alternatively, clone the repository (and/or fork it)
+to your local machine to go through the lessons
+interactively.
 
 * [Lesson 1](./01_lesson1.ipynb).
 
@@ -26,7 +31,7 @@ However, material and feedback from the
 Python Masterclass
 and
 [Codecademy's Python course](https://www.codecademy.com/learn/python)
-has been particularly useful.
+has been particularly useful - thanks!
 
 The development of this course is supported by
 [STFC](http://www.stfc.ac.uk)
