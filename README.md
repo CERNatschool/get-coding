@@ -68,10 +68,10 @@ and
 [Codecademy's Python course](https://www.codecademy.com/learn/python)
 has been particularly useful - thanks!
 
-CERN@school was supported by
+_CERN@school was supported by
 the UK [Science and Technology Facilities Council](http://www.stfc.ac.uk) (STFC)
 via grant numbers ST/J000256/1 and ST/N00101X/1,
-as well as a Special Award from the Royal Commission for the Exhibition of 1851.
+as well as a Special Award from the Royal Commission for the Exhibition of 1851._
 
 
 ## Useful links
